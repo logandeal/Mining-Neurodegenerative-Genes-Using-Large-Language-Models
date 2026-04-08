@@ -11,5 +11,5 @@ _Research completed as an Undergraduate Research Fellow at the University of Mis
 • Presented and defended findings at Fall Research Day 
 
 ## Links
-https://digbio.missouri.edu/
-https://muidsi.missouri.edu/
+- https://digbio.missouri.edu/
+- https://muidsi.missouri.edu/

@@ -1,6 +1,6 @@
 # Mining Neurodegenerative Genes Using Large Language Models
 
-Analyzing LLM's ability to "mine" and hypothesize neurodegenerative diseases
+**Analyzing LLM's ability to "mine" and hypothesize neurodegenerative diseases**
 
 _Research completed as an Undergraduate Research Fellow at the University of Missouri in Columbia, Missouri, United States._
 

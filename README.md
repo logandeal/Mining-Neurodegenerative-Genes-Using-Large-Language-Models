@@ -7,7 +7,9 @@ _Research completed as an Undergraduate Research Fellow at the University of Mis
 **Fellowship in the Digital Biology Lab within the Institute for Data Science & Informatics:**
 
 • Tested LLM’s ability to create knowledge graphs on complex gene pathways
+
 • Compared performance of various prompt strategies and LLMs at generating specific and hypothetical disease genes
+
 • Presented and defended findings at Fall Research Day 
 
 ## Links
